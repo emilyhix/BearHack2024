@@ -25,6 +25,16 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+<<<<<<< HEAD
     }
+=======
+    },
+    "extra": {
+      "eas": {
+        "projectId": "134431fe-2bd6-49a7-9c53-8eca2258cd7f"
+      }
+    },
+    "owner": "bearjeans"
+>>>>>>> cd7c1cc033904c6e2b18eeba28465d62fe128c52
   }
 }
