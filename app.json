@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    }
+=======
+>>>>>>> 87d7d77bdbafefd7694e0f25c39ad886c44fdfae
     },
     "extra": {
       "eas": {
@@ -32,5 +38,9 @@
       }
     },
     "owner": "bearjeans"
+<<<<<<< HEAD
+=======
+>>>>>>> cd7c1cc033904c6e2b18eeba28465d62fe128c52
+>>>>>>> 87d7d77bdbafefd7694e0f25c39ad886c44fdfae
   }
 }
